@@ -64,3 +64,18 @@ li{
 .skill-box:hover{
     transform:translateY(-5px);
 }
+nav{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+nav a{
+    text-decoration:none;
+    color:#2563eb;
+    margin:0 15px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#1d4ed8;
+}
